@@ -2,8 +2,6 @@
 
 Machine learning pipeline to deduce the deterministic SIR epidemic model from stochastic simulations, without assuming the ODE structure.
 
-**Mentors:** Harrison Prosper (FSU), Olivia Prosper (UTK), Sergei Gleyzer (Alabama)
-
 ---
 
 ## What this does
